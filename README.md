@@ -8,7 +8,7 @@
 Hi, I’m Irene Belih — QA Analyst
 Experienced in delivering quality-first solutions across web and mobile platforms
 
-I'm a QA Analyst with 8+ years of experience testing high-traffic applications in fintech, wellness, e-commerce, and drone delivery domains. I specialize in manual testing of complex systems, lightweight automation in TypeScript, and cross-functional collaboration in Agile/Scrum teams.
+I'm a QA Analyst with 7+ years of experience testing high-traffic applications in fintech, wellness, e-commerce, and drone delivery domains. I specialize in manual testing of complex systems, lightweight automation in TypeScript, and cross-functional collaboration in Agile/Scrum teams.
 
 🔍 I bring a detail-oriented mindset, strong defect analysis skills, and a user-first approach to everything I test. My goal? Fewer bugs, faster releases, and better user experiences.
 
