@@ -5,14 +5,48 @@
 <!--<p  align="center"><img height="380" src = "https://github.com/Bhard27/Bhard27/blob/master/mee.gif"></p>-->
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-I'm a Data Scientist. 
+Hi, I’m Irene Belih — QA Analyst
+Experienced in delivering quality-first solutions across web and mobile platforms
 
+I'm a QA Analyst with 7+ years of experience testing high-traffic applications in fintech, wellness, e-commerce, and drone delivery domains. I specialize in manual testing of complex systems, lightweight automation in TypeScript, and cross-functional collaboration in Agile/Scrum teams.
 
+🔍 I bring a detail-oriented mindset, strong defect analysis skills, and a user-first approach to everything I test. My goal? Fewer bugs, faster releases, and better user experiences.
 
-### Summary👋
-- 🔭 I’m currently working on Deep Learning research projects.
-- 👯 I’m looking to collaborate on research papers related to GANs, Swarm intelligence, Biomedical Imaging, Federated learning, and Adversarial ML.
+🛠️ Core Skills & Tools
+Manual Testing: Functional, regression, exploratory, UI/UX, UAT
 
+Platforms: Web, iOS, Android, API (REST/gRPC)
+
+Automation: TypeScript (smoke tests), Python (scripts)
+
+Tools: Jira, Zephyr, TestRail, Postman, Firebase, GCP, GitHub
+
+Data Validation: SQL, MySQL
+
+CI/CD & Performance: GitHub Actions, k6
+
+Team Environments: Agile, Scrum, Kanban
+
+🚀 Recent Experience
+QA Analyst – Drone Delivery Platform (2021–Present)
+
+Led end-to-end QA for a drone logistics platform (mobile + web)
+
+Validated geofencing, telemetry, and map workflows using Firebase/GCP
+
+Authored reusable smoke tests in TypeScript to improve QA speed
+
+QA Manual – Fintech App (2020)
+
+Ensured accurate data display and dashboard logic
+
+Performed API testing with Postman; managed defects in Jira
+
+QA Manual – eCommerce Projects (2018–2020)
+
+Tested core checkout flows, shipping logic, and product page UI
+
+Performed extensive cross-browser/device compatibility testing
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
