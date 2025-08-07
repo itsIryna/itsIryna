@@ -10,9 +10,9 @@ Experienced in delivering quality-first solutions across web and mobile platform
 
 I'm a QA Analyst with 7+ years of experience testing high-traffic applications in fintech, wellness, e-commerce, and drone delivery domains. I specialize in manual testing of complex systems, lightweight automation in TypeScript, and cross-functional collaboration in Agile/Scrum teams.
 
-🔍 I bring a detail-oriented mindset, strong defect analysis skills, and a user-first approach to everything I test. My goal? Fewer bugs, faster releases, and better user experiences.
+* I bring a detail-oriented mindset, strong defect analysis skills, and a user-first approach to everything I test. My goal? Fewer bugs, faster releases, and better user experiences.
 
-🛠️ Core Skills & Tools
+* Core Skills & Tools
 Manual Testing: Functional, regression, exploratory, UI/UX, UAT
 
 Platforms: Web, iOS, Android, API (REST/gRPC)
@@ -27,7 +27,7 @@ CI/CD & Performance: GitHub Actions, k6
 
 Team Environments: Agile, Scrum, Kanban
 
-🚀 Recent Experience
+* Recent Experience
 QA Analyst – Drone Delivery Platform (2021–Present)
 
 Led end-to-end QA for a drone logistics platform (mobile + web)
