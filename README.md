@@ -28,7 +28,7 @@ CI/CD & Performance: GitHub Actions, k6
 Team Environments: Agile, Scrum, Kanban
 
 🚀 Recent Experience
-QA Analyst – Drone Delivery Platform (2021–Present)
+QA Analyst – Drone Delivery Platform (2022–Present)
 
 Led end-to-end QA for a drone logistics platform (mobile + web)
 
